@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f00771d06394ef14981656e3c3925134
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - basicNPC: {fileID: 11400000, guid: 291033ab3bbf1b542a576e6cd4efe569, type: 2}
+  - showHealth: {instanceID: 0}
+  - showStamina: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
